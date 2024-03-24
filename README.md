@@ -18,4 +18,5 @@
 
 <h4>Akış Şeması // Flowchart</h4>
   
-  ![calculator](https://github.com/Celallee/WinFormAppCalculator/assets/100319856/d1dbe77b-37ef-4762-a8ea-d697ca16a532)
+
+![calculator](https://github.com/celalyldrmm/WinFormAppCalculator/assets/100319856/398b835a-0172-4a1a-9e87-260e287d4271)
